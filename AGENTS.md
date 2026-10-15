@@ -4,7 +4,7 @@
 - **專案名稱**：Outlook 圖檢異常郵件自動備份與清單同步
 - **實體路徑**：`D:\Antigravity Project\Outlook圖檢異常mail自動彙整`
 - **Obsidian 專案駕駛艙**：`C:\Users\eric.ho\Documents\Secondbrain\知識庫\Outlook圖檢異常郵件自動備份專案.md`
-- **GitHub 儲存庫**：https://github.com/ericho-0213/outlook-mail-backup (Private)
+- **GitHub 儲存庫**：https://github.com/ericho-0213/outlook-mail-backup (Public)
 - **對接信箱**：預設日常信箱（`archive.pst` / 預設寄件備份）與歷史備份（`2026.pst`）
 - **語言規範**：繁體中文（Taiwan）
 
